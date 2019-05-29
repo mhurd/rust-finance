@@ -6,3 +6,4 @@ edition = "2018"
 
 [dependencies]
 num = "0.2.0"
+leg = "0.1.3"
